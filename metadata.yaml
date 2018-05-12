@@ -1,0 +1,27 @@
+_repo: The-Path-Way-to-Knowledg-Containing-the-First-Principles-of-Geometrie_33093
+_version: 0.1.0
+alternative_title: The Path-Way to Knowledge, Containing the First Principles of Geometry
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Record, Robert
+    alias: Recorde, Robert
+    deathdate: 1558
+    gutenberg_agent_id: '36199'
+    url: http://www.gutenberg.org/2009/agents/36199
+description: ''
+gutenberg_issued: '2010-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Geometry -- Early works to 1800'
+title: The Path-Way to Knowledg, Containing the First Principles of Geometrie
+url: http://www.gutenberg.org/ebooks/33093
